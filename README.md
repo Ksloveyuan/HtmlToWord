@@ -1,6 +1,6 @@
 # HtmlToWord
 
-The project provides a http service to cover html to word by Microsoft.Office.Interop.Word. And the http server is written by WCF webHttpBinding.
+The project provides a http service to covert html to word by Microsoft.Office.Interop.Word. And the http server is implemented by WCF webHttpBinding.
 
 # Prequisites
 - .net framework 4.7
