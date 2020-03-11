@@ -9,7 +9,7 @@ The project provides a http service to covert html to word by Microsoft.Office.I
 
 # How to build
 
-First, use nuget to install all neeed package.
+First, use nuget to install all dependent packages.
 
 Second, build HtmlToWord.ConsoleHost.
 
@@ -22,3 +22,6 @@ If you need to host the service by Windows Service, please build HtmlToWord.Wind
 3. use word to open html file, then convert to word file
 4. return a download link
 5. add a url mapping in nginx, then the download part will be handled by nginx
+
+# Blog
+[原来，这才是html+css导出word最佳方式！](https://juejin.im/post/5dcd7132f265da0bd20aeec7)
